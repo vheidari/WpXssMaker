@@ -1,4 +1,4 @@
-# Make XSS vulnerabilities on Wordpress and Joomla.
+# Make XSS vulnerabilities on Wordpress.
 __wp xss maker__ using by __xss2shell__ and __xssploiter__ for make a shell for hacking __wordpress__ website. you can make a admin user on victim site.
 # Work on :
 wordpress version 3.xx
@@ -9,7 +9,7 @@ and click on __make xss javascript exploit__ and copy exploit code.
 
 # Using online version:
 you can see online version of wp xss maker from this link :
-http://wp-xss-maker.github.com and completed form and get exploit code.
+http://wp-xss-maker.github.io and completed form and get exploit code.
 
 
 -------------------------------
