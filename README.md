@@ -9,7 +9,7 @@ and click on __make xss javascript exploit__ and copy exploit code.
 
 # Using online version:
 you can see online version of wp xss maker from this link :
-http://wp-xss-maker.github.io and completed form and get exploit code.
+https://vheidari.github.io/wp-xss-maker/ and completed form and get exploit code.
 
 
 -------------------------------
